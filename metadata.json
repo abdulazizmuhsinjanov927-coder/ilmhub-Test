@@ -1,0 +1,6 @@
+{
+  "name": "IlmTest — Professional Online Test Platformasi",
+  "description": "Zamonaviy, xavfsiz va tezkor online test platformasi: o'quvchilar, o'qituvchilar va administratorlar uchun to'liq boshqaruv, Word import, Telegram bot integratsiyasi, anti-cheat va analitika.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
